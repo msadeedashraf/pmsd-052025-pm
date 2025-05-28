@@ -1,6 +1,6 @@
 ### Day 1
 
-NAS vs SAN
+- NAS vs SAN
 [NAS vs SAN](https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/)
 
 ### Day 2
@@ -15,9 +15,7 @@ NAS vs SAN
 [Container vs VMs](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms)
 
 - Kubernetes vs. Docker: A comprehensive guide to containerization
-
 [Dockers](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker)
-
 [Dockers2](https://www.paloaltonetworks.ca/cyberpedia/kubernetes-docker)
 
 
