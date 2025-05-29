@@ -20,6 +20,10 @@
 
 ### Day 3
 
+### Activate the Learn Sandbox
+
+[Sandbox](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services)
+
 ### Quickstart: Create a Windows virtual machine in the Azure portal
 
 [GUI](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
