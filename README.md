@@ -1,5 +1,10 @@
 ### Day 1
 
+- Remote Desk Setup - Installing Rust
+[RUST](https://github.com/rustdesk/rustdesk/releases/tag/1.4.0)
+
+- Or For windows pick up [x86-64 (64-bit)	EXE   MSI](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-x86_64.msi)
+
 - NAS vs SAN
 [NAS vs SAN](https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/)
 
@@ -25,6 +30,9 @@
 [Sandbox](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services)
 
 ### Quickstart: Create a Windows virtual machine in the Azure portal
+
+
+[AZ900 Create VM Exercise](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/3-exercise-create-a-vm)
 
 [GUI](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
 
