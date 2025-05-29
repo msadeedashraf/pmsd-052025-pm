@@ -5,6 +5,11 @@
 
 - Or For windows pick up [x86-64 (64-bit)	EXE   MSI](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-x86_64.msi)
 
+- Big Picture
+![Pic-1](/Big%20Picture-Arc.pdf)
+![Pic-2](/Big%20Picture-Arc2.pdf)
+
+
 - NAS vs SAN
 [NAS vs SAN](https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/)
 
