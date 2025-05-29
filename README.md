@@ -18,6 +18,11 @@
 [Dockers](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker)
 [Dockers2](https://www.paloaltonetworks.ca/cyberpedia/kubernetes-docker)
 
+### Day 3
 
+### Quickstart: Create a Windows virtual machine in the Azure portal
 
+[GUI](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
+
+[Azure CLI](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/3-exercise-create-azure-virtual-machine?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services)
 
