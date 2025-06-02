@@ -43,3 +43,20 @@
 
 [Azure CLI](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/3-exercise-create-azure-virtual-machine?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services)
 
+
+### Day 4
+
+- Created a virtual Machine
+
+### Day 5
+
+- Microsoft Virtual Training Days
+
+[Microsoft Virtual Training Days](https://events.microsoft.com/en-us/mvtd?search=azure%20fundamentals&language=English&clientTimeZone=1&startTime=08:00&endTime=17:00)
+
+- SDLC 
+
+[SDLC Phases](https://www.geeksforgeeks.org/sdlc-models-types-phases-use/) 
+[Application Dev Life Cycle](https://www.couchbase.com/blog/application-development-life-cycle/)
+
+- Define Agile using SCRUM also discuss scrum vs kanban vs extreme (including their key differences)
